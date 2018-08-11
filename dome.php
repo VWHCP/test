@@ -1,0 +1,4 @@
+<?php
+each 'hello world'
+
+?>
