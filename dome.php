@@ -1,4 +1,4 @@
 <?php
-each 'hello world'
+echo 'hello world'
 
 ?>
